@@ -15,3 +15,5 @@ This project demonstrates image generation using a pre-trained Stable Diffusion 
 # How to Run
 pip install -r requirements.txt
 python app.py
+<img width="1625" height="803" alt="image" src="https://github.com/user-attachments/assets/df6b783e-3e73-49bb-b335-6d9b576142dd" />
+
